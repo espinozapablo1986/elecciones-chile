@@ -2,14 +2,6 @@
 
 Web interactiva y estática sobre elecciones presidenciales chilenas entre 1989 y 2025.
 
-## Publicar y compartir
-
-**Netlify Drop:** ingresa a https://app.netlify.com/drop y arrastra la carpeta `elecciones_chile_web` (o un ZIP de su contenido descomprimido). Netlify genera un enlace público. El sitio es 100% estático y no necesita backend.
-
-**GitHub Pages:** crea un repositorio público, sube `index.html` a la raíz, activa Settings → Pages → Deploy from a branch (main / root). La dirección resultante permite compartir los comparadores configurados mediante los parámetros en el `#` de la URL.
-
-**Uso local:** abre `index.html` con cualquier navegador. Se puede utilizar sin servidor y sin conexión a Internet; solamente los enlaces a las fuentes necesitan acceso a Internet. El botón "Compartir" requiere publicar el sitio en una dirección HTTPS para producir un enlace compartible.
-
 ## Funciones
 
 - Evolución de bloques políticos en primera vuelta, en modo amplio y desagregado.
